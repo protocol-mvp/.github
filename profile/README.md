@@ -58,8 +58,7 @@ graph TB
 
 The MVP is fully deployed on Arbitrum mainnet with all core components operational.
 
-https://github.com/user-attachments/assets/a3a6f034-1a57-4926-b9a6-63472500808b
-
+https://github.com/user-attachments/assets/034ed789-718d-43e2-8eb1-23bba50e2f31
 
 
 ### Frontend
